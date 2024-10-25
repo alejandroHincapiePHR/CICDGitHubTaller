@@ -1,5 +1,5 @@
 
-Test fallan en el pipeline: 
+Fallar pruebas unitarias:
 
 <img width="916" alt="test failed git" src="https://github.com/user-attachments/assets/4086e3f5-8a3b-40fc-82e8-779ff18b2a04">
 
